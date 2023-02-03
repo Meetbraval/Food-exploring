@@ -1,0 +1,12 @@
+.large{
+    
+    justify-content: center;
+    height: 100px;
+    background-color:chartreuse;
+}
+.txt{
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 30px;
+    margin-top: 10px;
+}
